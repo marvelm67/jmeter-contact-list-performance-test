@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# JMeter logs
+jmeter.log
+*.log
+
+# Screen recording (too large for GitHub, upload separately to Google Drive)
+*.mov
+*.mp4
+*.avi
+*.webm
+Screen Recording*.mov
+*.MOV
+
+# Temp files
+*.tmp
